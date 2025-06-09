@@ -1,0 +1,15 @@
+.textBox {
+    display: flex;
+    background-image: url("../../assets/Scroll.png");
+    background-size: cover;
+
+}
+
+.dialouge{
+    text-align: left;
+    margin-left: 95px;
+    max-width: 680px;
+    font-size: larger;
+    
+
+}

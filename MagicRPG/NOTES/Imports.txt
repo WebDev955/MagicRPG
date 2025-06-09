@@ -20,3 +20,5 @@
 /**********************
  ACCOUNT CREATION
 ***********************/
+
+notes added to to Imorts.text, this entire projec is on GitHub as a repository 

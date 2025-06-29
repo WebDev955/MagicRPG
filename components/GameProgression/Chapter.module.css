@@ -1,0 +1,8 @@
+.parentDiv{
+    width: 800px;
+    height: 800px;
+    background-color: lightblue;
+    border: 5px;
+    border-color: white;
+    border-style: solid;
+}

@@ -1,0 +1,24 @@
+//HOOKS
+
+
+// COMPONENT IMPORTS
+
+
+
+//COMPONENT IMPORTS - CONTEXTS
+
+
+//STYLES
+
+
+
+-Section Divders
+/*****************************************/
+                    TITLE                            
+/***************************************/ 
+
+/**********************
+ ACCOUNT CREATION
+***********************/
+
+notes added to to Imorts.text, this entire projec is on GitHub as a repository 
